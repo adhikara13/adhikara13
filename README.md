@@ -1,6 +1,6 @@
 ### Hi there, I'm Adhikara - aka [adhikara13](https://www.instagram.com/adhikara13) 👋
 
-[![Website](https://img.shields.io/website?label=adhikara.pw&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](adhikara.pw)
+[![Website](https://img.shields.io/website?label=adhkr.my.id&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.adhkr.my.id)
 [![Twitter Follow](https://img.shields.io/twitter/follow/adhikara13?color=E4405F&logo=instagram&style=for-the-badge)](https://www.instagram.com/adhikara13)
 
 ## I'm a Student, Designer, Developer, and a cybersecurity enthusiast!
